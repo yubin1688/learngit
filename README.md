@@ -28,3 +28,5 @@ I fixed issue 01 in branch issue-01.
 I made change 7 in branch dev for testing stash feature.
 
 I made some changes.
+
+I made changes in origin master branch.
