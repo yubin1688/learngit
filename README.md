@@ -30,3 +30,5 @@ I made change 7 in branch dev for testing stash feature.
 I made some changes.
 
 I made changes in origin master branch.
+
+I made changes in origin master branch 001.
